@@ -1,0 +1,36 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+section{
+  width: 100vw;
+  height: 100vh;
+  background-color: darksalmon;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.box1{
+  height: 200px;
+  width: 200px;
+  background-color: aqua;
+  border-radius:50%;
+}
+
+.box2{
+  height: 200px;
+  width: 200px;
+  background-color: yellowgreen;
+  margin-left:470px;
+  margin-right:470px;
+  border-radius:50%;
+}
+
+.box3{
+  height: 200px;
+  width: 200px;
+  background-color: yellow; 
+  border-radius:50%;
+}
